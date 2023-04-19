@@ -71,7 +71,7 @@ export default function Home() {
       ) : (
         <form onSubmit={handleSubmit} className='flex flex-col justify-center items-center border border-[#383838] p-9 rounded-2xl m-5'>
           <div className="text-[#D1FE42] border border-[#D1FE42] px-2 rounded-full m-3 uppercase">
-            <h1>Let's Escape the Matrix</h1>
+            <h1>Let&apos;s Escape the Matrix</h1>
           </div>
           <h1 className="text-white font-bold text-3xl md:text-6xl text-center">Join our FREE<br /> Discord community</h1>
           <p className="text-[#999999] text-sm md:text-lg m-4 max-w-md text-center">Sign up with your email address to be among the first to join our Discord server and get notified about new events and exciting updates.</p>
